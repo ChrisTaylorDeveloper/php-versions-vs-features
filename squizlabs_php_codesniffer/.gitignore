@@ -1,3 +1,4 @@
 phpcbf.phar
 phpcs.phar
 vendor
+composer.phar

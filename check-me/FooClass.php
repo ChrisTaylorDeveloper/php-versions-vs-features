@@ -1,7 +1,7 @@
 <?php
 
-class Foo {
-    const A;
+class FooClass {
+    const A = 'a';
     function b(){
         $bar = array(
             1,
