@@ -16,5 +16,9 @@ echo "This is the abc{$foo}def variable with dollar symbol inside curly braces."
 
 $bar = 1 <=> 2;
 
+// null safe
+// $spam = $a?->b();
+
 $foo_class = new FooClass();
 $foo_class->b();
+$foo_class->pub_vis();
